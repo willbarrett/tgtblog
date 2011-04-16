@@ -1,3 +1,3 @@
-##tallgreentree.com
+#tallgreentree.com
 
 This is the source code for [http://tallgreentree.com](http://tallgreentree.com). It's built using [Nesta](http://nestacms.com), a Ruby cms.
