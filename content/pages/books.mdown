@@ -1,0 +1,3 @@
+#Book Reviews
+
+I'm an avid reader. My interests lie primarily in open source with a focus on agile software development, work practice and programming. Most programmers don't read enough. I probably read too much.

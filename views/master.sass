@@ -133,6 +133,12 @@ a
   &:active
     color: $active-link-color
     border-bottom-color: $active-link-color
+a.nounderline
+  border-bottom: none
+a.inset
+  float: left
+  margin-right: 1em
+  margin-bottom: 1em
 
 nav.breadcrumb    
   ul
@@ -239,7 +245,7 @@ section.articles
 
 nav.categories
   h1
-    @include adjust-font-size(1, 2, 0)
+    @include adjust-font-size(1, 1, 0)
 
   ul.menu
     list-style: none
