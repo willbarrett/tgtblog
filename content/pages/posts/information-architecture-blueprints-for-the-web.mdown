@@ -1,0 +1,12 @@
+Date: March 3 2010
+Categories: books
+Summary: No-nonsense, short, readable introduction for people with not enough time on their hands.
+Read More: Full Review
+
+# Information Architecture, Blueprints for the Web
+
+by Christina Wodtke, Austin Govella
+
+[On Amazon](http://www.amazon.com/gp/product/0321600800)
+
+This book is an excellent introduction to the field of Information Architecture as it relates to the internet. While some of the examples are dated now that we're into the 2010's, the concepts are current and presented in an enjoyable format. I found the presentation of other suggested resources to allow readers to perform their own 'deep-dive' learning very helpful, and have picked up some of the other books recommended by the author. This is a fast, no-nonsense read for those who need to learn the basics of the field in a hurry.

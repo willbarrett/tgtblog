@@ -1,0 +1,14 @@
+Date: 4 April 2010
+Categories: books
+Summary: This book explains in excruciating detail the main reasons that programming projects fall so woefully behind schedule.
+Read More: Full Review
+
+# Dreaming in Code
+
+by Scott Rosenberg
+
+[On Amazon](http://www.amazon.com/gp/product/1400082471)
+
+This book explains in excruciating detail the main reasons that programming projects fall so woefully behind schedule. It puts this history in broad historical context. This book is a must for project managers, developers, designers, IAs, and anyone else who works on software projects. What's more, this book is written towards the non-technical, so it's a fast read. Don't worry if you don't understand code - that's no problem here.
+
+I was really bummed when my boss destroyed my copy of this - I'll be buying another copy of this soon, and might actually buy one for each member of my team. It's a really worthwhile read.

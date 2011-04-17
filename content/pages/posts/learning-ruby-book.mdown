@@ -1,0 +1,13 @@
+Date: April 1 2010
+Categories: books
+Summary: Buy this book if you're already a programmer, but buy another one too.
+Read More: Full Review
+
+# Learning Ruby
+
+by James Fitzgerald
+
+[On Amazon](http://www.amazon.com/gp/product/0596529864)
+
+
+This is not the only book you need if you want to learn ruby. I picked it up as it's pointed towards folks with a programming background who need a fast overview of the language. If that sounds like you, then perhaps you should pick this up. If you're trying to learn it as your first language, I would suggest a different book. If you do decide to go this route, I would also pick up a copy of the Pickaxe book (Programming Ruby from the Pragmatic Programmers), as their explanations are much more in-depth.

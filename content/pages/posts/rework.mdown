@@ -1,0 +1,20 @@
+Date: 30 April 2010
+Categories: books
+Summary: 37signals has my respect - they created my web development tool of choice, they created some great products (like BaseCamp), and I think that this book captures their culture and philosophy in a really excellent way.
+Read More: Full Review
+
+# Rework
+
+by Jason Fried
+
+[On Amazon](http://www.amazon.com/gp/product/0307463745)
+
+37signals has my respect - they created my web development tool of choice, they created some great products (like BaseCamp), and I think that this book captures their culture and philosophy in a really excellent way.
+
+Rework is a very fast read. I breezed through the whole thing in 2 hours on a Saturday morning. There's no deep-dive here. The concepts are basic, and are dealt with on the surface. Part of the end of the book is discussing how the authors removed a huge chunk of content just before they went to press. I couldn't help feeling like it could have been better if some of that content had been left in. In addition, almost 50% of the pages are illustration, so when you pick the book up in the store, make sure to think of it as 50% of its width and heft. The type is also quite large, so there really is much less content then the binding would lead you to believe.
+
+As for the content, the experiences tapped by the authors are very specific - what works for them may not work in larger production environments. They created a small group of very targeted products. Most development shops don't do this. They revolve around creating many products for many different groups, or maintaining large, extremely feature-rich applications. 37signals has found it's sweet spot, but often the sweet spot is larger, especially when large, demanding corporations get involved.
+
+All of that said, were I to start a small development business tomorrow, I would sit down and read this book cover to cover 4 times, then put it on my desk to refer to when things got tough. It's inspiring. It's pragmatic. It's focused on the little guy and what the little guy can achieve with a DIY attitude and a work ethic. I love it.
+
+Don't read it for accounting advice, tricks of the trade, or a history of 37signals, because you will be disappointed. Read this for inspiration, to make yourself rethink the way you work and act, and in hopes that one day you will be so wildly successful.
