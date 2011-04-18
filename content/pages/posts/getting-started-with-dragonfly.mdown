@@ -1,0 +1,57 @@
+Date: April 17 2011
+Categories: rails3
+Summary: Devise allows easy image processing under Rails via Rack with little configuration and no RMagick, the gem we all hate to install.
+Read More: Go to Tutorial
+
+# Getting Started with Dragonfly
+
+###First off, what's Dragonfly? 
+Dragonfly is a gem that eases the pain of image processing in Rails and other Ruby applications. For those of you in a hurry, go check out the [source](http://github.com/markevans/dragonfly) and then go install the [gem](http://rubygems.org/gems/dragonfly).
+
+**The impressive thing about Dragonfly**, the thing that separates it from most other image processing plugins, **is that it allows on-the-fly resizing from the view**. Not needing to configure thumbnail sizing or other actions in a separate file is a huge time and frustration saver. It makes Rails view code like `image_tag @product.image.thumb('150x150#')` possible. In addition, reprocessing thumbnails is never necessary unless the base image changes. You can add and remove as many image sizes as you like without causing major headaches.
+
+The magic is all made possible by caching. Instead of building the processed version on upload and then linking to individual versions of the image, the plugin generates images as they are requested. While this is a problem for the first load, **the newly created image is http cached for all subsequent loads**, by default using Rack::Cache, though other more robust solutions are available should scaling become an issue.
+
+### Getting Dragonfly set up under Rails 3 is a synch. 
+The only difficult bit is getting ImageMagick, an open source processing library installed. If you're on Linux, it's a fairly simple operation using apt-get. You simply run `apt-get install imagemagick` and you should be set. 
+
+**Installing to Mac** is a little more complicated. A number of libraries have to be compiled from source. I had to do this recently on a new laptop at my office. There is a script out there that has been floating around on github that almost works, but needed to be updated for more recent versions of the library. You can find the version that worked for me on Snow Leopard [here](http://github.com/sccdigital/ImageMagick-sl). Simply clone the repository and run the shell script it contains to install imagemagick and its dependencies. **If you run Windows**, my sympathies, and unfortunately I can't give you a hand with installation - I'm kind of a \*nix-only developer.
+
+From here on out, I'll assume that you're running Rails 3. Once you have ImageMagick installed, you can install the Dragonfly and Rack::Cache gems. If you're using bundler (which you should be) then all you need to do is add these two lines to your Gemfile in your project's root:
+
+    gem 'rack-cache' => require 'rack/cache'
+    gem 'dragonfly => '~>0.8.2'
+
+and run `bundle install`.
+
+Now that you have the gems, you'll need to add an initializer. I would suggest adding this to the file `config/initializers/dragonfly.rb` under the rails root:
+
+    require 'dragonfly/rails/images
+
+This loads the rails-specific functionality from Dragonfly. Your next step will be to add a string field to the database tables that you want to associate an image to. Let's assume that you want to add an image column to your products table. You would add this to your migration:
+
+    add_column :products, :image_uid, :string
+
+This creates a string field for Dragonfly to use to store information about any images you upload. Then, you would add this line to your Products model:
+
+    class Product < ActiveRecord::Base
+      image_accessor :image
+    end
+
+which tells Dragonfly which field to use for images. Note that while the field in the database has the '_uid' extension, we'll be using the base name only in all other portions of the application. Next, we'll need to update the form for the Product model to contain a file field and **set multipart to true for the form doing the uploading**. Here's the code:
+
+    <%= form_for @product, :html => { :multipart => true } do |f| %>
+      ...
+      <%= f.file_field :image %>
+      ...
+    <% end %>
+
+There are plenty of processing options, and they all involve changes in the view code to display the image. To show the original, call:
+
+    <%= image_tag @product.image.url %>
+
+To generate a 100px square thumbnail that is cropped to fill the frame, call:
+
+    <%= image_tag @product.image.thumb('100x100#').url %>
+
+This should get you limping along. There are many other awesome processing and configuration options for Dragonfly, which you can find in great detail in the [documentation for the gem](http://markevans.github.com/dragonfly/). I love Dragonfly, and I hope that you will too.

@@ -1,0 +1,3 @@
+#Rails 3
+
+Ahh, the sweet smell of migrations in the morning.
