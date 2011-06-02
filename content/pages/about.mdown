@@ -1,8 +1,8 @@
 # About
 
-I'm Will Barrett. This is my blog. It's built using [Nesta](http://nestacms.com), a Ruby CMS.
+Tall Green Tree is a product development company founded by Will Barrett.
 
-I'm a Web Developer. I work for [Schafer|Condon|Carter](http://www.schafercondoncarter.com), an advertising agency in the West Loop neighborhood of Chicago. I live in Evanston, right by my favorite coffee shop, [Brothers K](http://www.brotherskcoffee.com/).
+Will Barrett is a Ruby developer, entrepreneur, musician, and coffee addict living in Evanston IL, right by his favorite coffee shop, [Brothers K](http://www.brotherskcoffee.com/).
 
-You can find my code on [Github](http://github.com/tallgreentree).
-If you want to get in touch, you can reach out through [linkedin](http://linkedin.com/in/tallgreentree) or [twitter](http://twitter.com/tallgreentree), or scan the barcode in the sidebar with your smartphone for my full contact info.
+You can find his code on [Github](http://github.com/tallgreentree).
+If you want to get in touch, you can reach out through [linkedin](http://linkedin.com/in/tallgreentree) or [twitter](http://twitter.com/tallgreentree), or scan the barcode in the sidebar with your smartphone for more contact info.

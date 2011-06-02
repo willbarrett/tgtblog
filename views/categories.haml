@@ -1,12 +1,13 @@
 %nav.categories
-  %h1 Meta
-  %ul.menu
-    %li
-      %a{:href => '/about'} About
-    %li
-      %a{:href => '/projects'} Projects
+	%ul.menu
+		%li
+			%a{:href => '/about'} About
+		%li
+			%a{:href => '/current-projects'} Current Projects
+		%li
+			%a{:href => '/past-work'} Past Work
 
 - if ! @menu_items.empty?
-  %nav.categories
-    %h1 Articles by Category
-    - display_menu(@menu_items, :class => "menu")
+	%nav.categories
+		%h1 Articles by Category
+		- display_menu(@menu_items, :class => "menu")
