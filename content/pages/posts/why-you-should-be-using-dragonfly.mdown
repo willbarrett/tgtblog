@@ -1,0 +1,14 @@
+Date: June 3 2011
+Categories: rails3
+Summary: Dynamic image generation allows you to make changes to existing designs without being thrown into a frantic search for build files and photoshop templates.
+Read More: OK, AND?
+
+# Why You should be using Dragonfly
+
+I've had to explain my choices frequently recently around using Dragonfly for image management. To many designers, it feels as if I'm blocking them from having complete control of the images we're putting on the internet. That's the wrong way to look at it.
+
+By generating thumbnails and other image versions dynamically through Dragonfly, I was reducing their workload, and preparing for the inevitable changes. Near the end of most website projects, decisions are made that change the design of the site in subtle ways. On one recent project, key stakeholders decided to change the size and encoding of all the product images on the site (over 200).
+
+Normally, in a standard image workflow, this would necessitate resizing all 200+ images in Photoshop, and re-uploading the images through the admin section of the site. But, because we were generating the images for the section dynamically, and the originals were stored on the server, it was a simple matter of changing a few lines of code and enduring slow page loads for about 10 minutes to complete the change.
+
+Dynamic image generation also ensures that you're not keeping unnecessary image versions on the server, and has a few other benefits, but to me the insurance it gives you against future changes to design is the best reason imaginable.

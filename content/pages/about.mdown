@@ -1,8 +1,9 @@
 # About
 
-Tall Green Tree is a product development company founded by Will Barrett.
+Tall Green Tree is a digital product development company founded by Will Barrett.
 
-Will Barrett is a Ruby developer, entrepreneur, musician, and coffee addict living in Evanston IL, right by his favorite coffee shop, [Brothers K](http://www.brotherskcoffee.com/).
+Will is a Ruby developer, entrepreneur, and musician living in Evanston IL, right by his favorite coffee shop, [Brothers K](http://www.brotherskcoffee.com/). He can be found most days in one of the coffee shops or co-working spaces in North Chicagoland punching out code and swilling lattes.
 
 You can find his code on [Github](http://github.com/tallgreentree).
-If you want to get in touch, you can reach out through [linkedin](http://linkedin.com/in/tallgreentree) or [twitter](http://twitter.com/tallgreentree), or scan the barcode in the sidebar with your smartphone for more contact info.
+
+If you want to get in touch, you can reach out through [linkedin](http://linkedin.com/in/tallgreentree) or [twitter](http://twitter.com/tallgreentree), or scan the QR code in the sidebar with your smartphone for more contact info.
