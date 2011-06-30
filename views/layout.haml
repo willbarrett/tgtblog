@@ -14,6 +14,8 @@
       %link(rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection")
     /[if lt IE 9]
       %script(src="//html5shim.googlecode.com/svn/trunk/html5.js")
+    %script(type="text/javascript" src="http://use.typekit.com/xgj7kvo.js")
+    %script(type="text/javascript") try{Typekit.load();}catch(e){}
     = local_stylesheet_link_tag('local')
     %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
     = haml :analytics, :layout => false
