@@ -6,7 +6,7 @@ Summary: Buy a copy, read it, then just leave it on your desk. You'll need it go
 
 by Jeffrey E.F. Friedl
 
-[On Amazon](http://www.amazon.com/gp/product/0321600800)
+[On Amazon](http://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124/)
 
 This is one of those books that simply makes you better at what you do. Regular expressions are a difficult subject, but one that makes string manipulation far easier. I find myself constantly learning new uses for the knowledge this book provides. For every use from text editor to command line to hard-core scripting and programming, this book is a must for all developers. After reading it, you will truly be able to say that you've "mastered" regular expressions.
 

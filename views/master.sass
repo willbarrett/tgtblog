@@ -34,6 +34,9 @@ header[role=banner]
   h1
     font-size: 327%
     @include text-shadow
+    a
+      border-bottom: none
+      color: black
   h2
     color: $meta-color
     font-size: 1em
@@ -89,23 +92,22 @@ article, aside, footer, header, nav, section
   display: block
 
 div#container
-  width: 54em
-  margin: 0 auto
+  margin: 0
   padding: 1em 1em 0 2em
 
   div#content
     position: relative
-    width: $content-width
-    float: left
     padding: 1px 1em
-    background-color: $content-background-color
     color: $content-text-color
+    width: 70%
+    margin-left: 200px
 
   div#sidebar
     width: 12em
-    margin-left: 40em
-    padding: 0 1em
-  
+    margin-left: 0
+    padding: 0
+    float: left
+
     img#contact_image
       width: 12em
   
@@ -252,6 +254,10 @@ nav.categories
 
   ul.menu
     list-style: none
+    li
+      margin-left: 2em
+    li:first-letter
+      margin-left: -2em
     ul
       list-style: disc
       margin: 0 0 0 1.25em

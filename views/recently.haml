@@ -1,0 +1,6 @@
+%nav.categories
+  %h1 Recently
+  %ul.menu
+    - latest_articles(5).each do |page|
+      %li
+        %a(href="#{page.abspath}")= page.heading
