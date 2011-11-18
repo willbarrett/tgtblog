@@ -1,9 +1,0 @@
-Date: 17 November 2011
-Categories: rails, oauth
-Summary: An introduction to OAuth using OmniAuth 1.0.
-Read More: View Tutorial
-
-# OmniAuth 1.0
-
-
-
