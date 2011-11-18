@@ -1,0 +1,13 @@
+Date: 14 September 2011
+Categories: rants
+
+# Designers and Markup
+
+Here's how I see it, from my experience at marketing companies and working with a couple of startups:
+
+HTML and CSS aren't programming languages - they are markup and presentation systems. Knowing HTML and CSS doesn't make you a programmer, or even a coder. Developers aren't asking that designers learn Ruby orPHP or .NET, we're asking that they learn markup.
+
+Designers who don't understand markup can be good designers. However, they are totally unequipped to understand the basics of the medium. It's like doing design for a magazine advertisement without knowing the dimensions of the page, or which direction is generally accepted as 'up'. We developers get pissed off because more often than not, any designer who hasn't bothered to learn basic HTML and CSS is just a bad designer who doesn't care about the medium. This stuff isn't hard, and it's not asking the moon that designers familiarize themselves with it.
+
+As a developer, I've learned the basics of Photoshop, Illustrator, InDesign, QuarkExpress, color theory, and typography, among other tools outside of "programming". All I'm asking for is a little reciprocal courtesy.
+
