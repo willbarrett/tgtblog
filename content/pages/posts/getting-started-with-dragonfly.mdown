@@ -3,7 +3,7 @@ Categories: rails
 Summary: Devise allows easy image processing under Rails via Rack with little configuration and no RMagick, the gem we all hate to install.
 Read More: Go to Tutorial
 
-# Dragonfly Kickoff
+# Getting Started with Dragonfly
 
 ###First off, what's Dragonfly? 
 Dragonfly is a gem that eases the pain of image processing in Rails and other Ruby applications. For those of you in a hurry, go check out the [source](http://github.com/markevans/dragonfly) and then go install the [gem](http://rubygems.org/gems/dragonfly).
