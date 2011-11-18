@@ -1,5 +1,7 @@
-%nav.breadcrumb
-  %a(href="/") Home
+-#%nav.breadcrumb
+  -#%a(href="/") Home
+
+= haml :sidebar, :layout => false
 
 #content
   %section(role="main")
@@ -9,4 +11,4 @@
       An error occurred whilst we were trying to serve your page. Please
       bear with us, or try another page.
 
-= haml :sidebar, :layout => false
+

@@ -126,7 +126,6 @@ a
   border-bottom: 1px dotted $link-color
   text-decoration: none
   color: $link-color
-  @include transition(color 0.25s 0 ease)
   &:visited
     color: $visited-link-color
     border-bottom-color: $visited-link-color
@@ -160,8 +159,6 @@ div.feed,
 article p.meta
   a
     color: $nav-link-color
-  &:hover a
-    color: $link-color
   a:hover
     color: $hover-link-color
 
@@ -172,8 +169,6 @@ article p.meta
     border-bottom-color: $background-color
 
 article p.meta
-  a
-    @include transition(border-bottom-color 0.5s 0 ease)
   a:hover
     border-bottom-color: $hover-link-color
 
@@ -191,10 +186,11 @@ article
   code,
   pre
     background-color: black
-    color: green
+    color: white
   code
     padding: 1px 3px
-    color: green
+    color: white
+    font-size: 1.2em
   pre
     border-left: $border-style
     background-color: black
