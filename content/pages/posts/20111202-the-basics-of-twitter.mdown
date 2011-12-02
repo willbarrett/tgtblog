@@ -1,0 +1,65 @@
+Date: December 2 2011
+Categories: social
+Summary: advice that I was given a while back by a true social media expert. Not just another snake oil man, the real deal! I asked him how I could use social media to gain real industry contacts, and this is what he told me.
+
+# The Basics of Twitter
+
+This post contains advice that I was given a while back by a true social media expert. 
+Not just another snake oil man, the real deal! I asked him how I could
+use social media to gain real industry contacts.
+
+Two days ago I started putting his advice into practice. Boy was he right. I have gained 6 new follows, DM'd with two new business contacts,
+received a bug report through twitter, and had one of my tweets retweeted to over
+1300 people in only two days. Here's what he told me:
+
+### Have a schedule and stick to it.
+
+Tweet a certain number of times a day about specific topics. Establish a
+topic for each day of the week. I chose 4 tweets a day, 5 days a week
+(the weekend isn't for business) and set the
+following topic schedule:
+
+* Monday: Tweet about Design
+* Tuesday: Tweet about Code
+* Wednesday: Tweet about Startups/Businesses
+* Thursday: Tweet about Web Marketing
+* Friday: Engage in a bit of the #ff crazyness and post some fun stuff,
+  not business related.
+
+What Helps Me: Adding the topics as recurring todos in [Remember
+The Milk](http://www.rememberthemilk.com), using
+[Buffer](http://bufferapp.com) to schedule the tweets throughout the day
+so I can just do my twitter writing in 15 minutes first thing in the
+morning.
+
+### Generate Retweets.
+
+The main way you gain followers is by generating retweets. Write tweets
+that are designed to generate that kind of interaction. Tweets that
+offer an interesting opinion and then mention people who might want to
+express that opinion seem to work. Here's the tweet that netted me the
+most mileage this week:
+
+Bootstrap a SaaS service, no VC, no Angel. Possible? These folks say yes: [@eng](http://twitter.com/eng) [@lessaccounting](http://twitter.com/lessaccounting) [@forbes](http://twitter.com/forbes) [j.mp/tR4IML](http://www.forbes.com/2010/04/15/bootstrap-medallia-krawler-intelligent-technology-saas.html)
+
+What Helps Me: Knowing who I'm talking to. Research the people you're
+mentioning and see what makes them tick. Speak to those motivations.
+
+### Engage in Conversation.
+
+If someone mentions you in a tweet, mention them back. Follow them. If
+they follow you back, DM them. Ask an intelligent question. Get into a
+conversation. If the follow is the first step in your conversion
+funnel, this is the second. If you can get someone talking to you, and
+get them interested, they may want to establish a real relationship. If
+you like the conversation, share your email address or your skype
+handle. See if you can make a real connection.
+
+What Helps Me: Again, researching who I'm talking to. If I can find
+their real name, it gives me confidence that they're not just another
+internet crazy. If they're in my industry, it increases my confidence
+further. Confidence is what it's all about.
+
+#### Like this post? 
+
+Follow me on Twitter [@tallgreentree](http://twitter.com/tallgreentree) or [subscribe to this blog](http://blog.tallgreentree.com/articles.xml).
