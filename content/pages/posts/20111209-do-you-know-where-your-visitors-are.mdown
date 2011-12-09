@@ -1,0 +1,35 @@
+Date: December 9 2011
+Categories: analytics
+Read More: Comments...
+
+# It's 10:05 AM. Do you know where your visitors are?
+
+If not, then you're failing at the one most important thing you should be doing on the internet. Seriously. Read this post and then go get your analytics set up correctly. I don't care if your server farm is burning down, this is more important.
+
+###Q: Why do I care? A: Because you WILL learn things - personal example follows.
+
+A few weeks ago, I re-launched a personal site. It's a 1-page deal with links to other pieces of content:
+
+![image of my website](/content/attachments/20111209/website.jpg)
+
+Here's a close-up of the links area at the time of writing:
+
+![image of links area](/content/attachments/20111209/website-links.png)
+
+When I launched the site, I had a few theories about what people would want to know about me. First, I figured my blog and what I write about would be the most-clicked link. Second, I figured Linkedin for a resume. After that, I wasn't sure - probably github for code. So I set up some event tracking in Google Analytics to see what would actually happen.
+
+Turns out, most of my assumptions were wrong. The most-clicked link on that site is my recent project - SignalKit. Close second is this blog, distant third is Stack Overflow, and the rest of social media follows down the line, about tied with Github. Linkedin is dead-last with almost no hits.
+
+This is incredibly useful information for me. It tells me that I need to be spending time building cool stuff, and writing good words on this page. The rest of the effort is way less important, and for all the good it's doing me, I should just turn off Linkedin. The only people who find me there are recruiters anyway.
+
+Next, I wanted to know where my traffic is coming from. I'm on the Highrise home page some of the time as a user example, so that's a big chunk of my traffic. 60% of my referrals actually. About 45% of my traffic is direct, so that's probably due to handing out business cards and the like. Search traffic is pretty small, mostly searches for "tall green tree", which makes sense. I count that traffic as direct.
+
+So, now I know what my visitors are interested in and where they come from. Very valuable. That said, I want more traffic. To do that I need to get myself listed more places on the web. Again, it comes back to "do cool stuff" and "write good words".
+
+### Short Aside on Tools
+
+Usually, I don't care how things get done as long as they get done well, but sometimes people ask me about tools, so I'll share my opinion: Unless you have gobs of money and a really pressing need to spend it, Google Analytics is your friend. It's really standard, everyone uses it, and the bits you actually need are free. Google just did a big refresh on it which makes the dashboards for domains much more easily customizable, and in general makes the UI much better.
+
+### What should I track?
+
+Focus on percentages rather than raw numbers. Choose things that will teach you stuff about your business and your users. Everything you think you know is potentially wrong until you prove it correct with numbers. Start with big assumptions - my users are here for X, or I get my traffic from Y. Also, know what you want going in, but be prepared to change your plan. Remember that web analytics can tell you what your users are DOING, but not what they're THINKING. Go with the trends, but don't make assumptions about motivations based on numbers alone. Oh, and anyone who actually comes to your site rocks. Really.
