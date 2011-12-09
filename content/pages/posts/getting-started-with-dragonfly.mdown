@@ -1,7 +1,5 @@
 Date: April 17 2011
-Categories: rails
-Summary: Devise allows easy image processing under Rails via Rack with little configuration and no RMagick, the gem we all hate to install.
-Read More: Go to Tutorial
+Categories: programming
 
 # Getting Started with Dragonfly
 
