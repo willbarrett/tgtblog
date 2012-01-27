@@ -1,0 +1,33 @@
+Date: 30 April 2010
+Category: business
+
+# The Mac App Store is an Underappreciated Channel
+
+There has been a lot of discussion around the 'net about whether it is
+better to sell mac apps on the app store or through your own website.
+I've also heard grumblings about low sales numbers and Apple's 30% cut.
+I think these concerns make sense for established Mac developers and mac
+development houses.
+
+For those of us just getting into the game of app development, however,
+I think the App store is just flat-out amazing. The opportunities in the
+space are huge, as the current store is really thin on the ground. Some
+of the apps are awesome, but there just aren't that many yet.
+Additionally, the price deflation that has hit the iOS store is yet to
+hit the mac app store to the same degree. By filling in some of the
+(very large) unfilled niches in the store, independent developers can
+stand to make a usually decent (and sometimes obscene) amount of money.
+
+Speaking of money, the app store relieves the developer of managing
+their own sales and distribution system. I'm happy to give Apple 30% of
+my revenue to get that taken care of. Managing servers isn't fun -
+making software is fun! Apple is letting me spend more time coding, which is what
+I want in the end, by relieving me of the burden of managing my own
+sales. Additionally, by putting an app in the app store, I can garantee
+that there will be eyeballs on the app. Macs are gaining market share,
+so by writing for the platform, developers are making a pretty safe bet
+at this point.
+
+No big relevations in this post, but I think that for independent
+developers, the Mac App Store is a killer opportunity. I'm certainly
+planning on getting in on it!
