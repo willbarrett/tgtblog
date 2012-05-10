@@ -1,0 +1,12 @@
+Date: March 10, 2012
+Categories: rants
+
+# Software Developer's Responsibilities
+
+The [announcement two days ago by Adobe](http://www.adobe.com/support/security/bulletins/apsb12-11.html) that "critical" vulnerabilities in Photoshop CS5.5, which is less than a year old, could only be patched by a paid upgrade to CS6 brought me to thinking about the responsibilities of developers towards their customers. It also started me thinking about how I might start living an Adobe-free existence through open-source tools. This is an evolving area with no best practices, but I think everyone agrees that this is a bad move.
+
+Critical security vulnerabilities in paid software should be patched in any software that is inside its obsolescence period. The exact definition of this period is under debate, but let's assume it to be 2 release cycles. Photoshop releases approximately yearly, so they should be patching releases back to CS5 or CS4. That they are not doing this is abhorrent and frustrating to me as a programmer. Failing to support their products is a huge blunder that is [currently generating a large backlash within the community](http://news.ycombinator.com/item?id=3952263) and providing a bad example for other software companies. I'm surprised that Adobe's engineers are letting the company get away with this kind of business practice. It shows, to me, a lack of pride in what they've created. Adobe is proving that it cares more about maintaining a huge profit margin than it does about providing great tools for photographers, graphic designers, and all the other professionals that use its products on a daily basis.
+
+I won't be boycotting Adobe anytime soon - it would be highly difficult professionally - but I am started to be reminded of heyday of Internet Explorer 6 - in absence of a clear competitor, software companies may start doing the expedient thing rather than the right thing. For IE, this meant stagnation. For Adobe, this means faulty business practices meant to frighten consumers into shelling out for the most recent version.
+
+ I got into this business because it's founded on the creativity of programmers, and because we're so near the start of learning what we can do. I hope Adobe's engineers realize that they are shaping the future of the industry and stand up to whatever suit-clad business wonk decided this was a good idea. I also hope some credible competition to the Creative Suite shows up fast.
