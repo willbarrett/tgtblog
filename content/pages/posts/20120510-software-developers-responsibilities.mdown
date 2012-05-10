@@ -1,7 +1,7 @@
 Date: March 10, 2012
 Categories: rants
 
-# Software Developer's Responsibilities
+# A Software Developer's Responsibilities
 
 The [announcement two days ago by Adobe](http://www.adobe.com/support/security/bulletins/apsb12-11.html) that "critical" vulnerabilities in Photoshop CS5.5, which is less than a year old, could only be patched by a paid upgrade to CS6 brought me to thinking about the responsibilities of developers towards their customers. It also started me thinking about how I might start living an Adobe-free existence through open-source tools. This is an evolving area with no best practices, but I think everyone agrees that this is a bad move.
 
