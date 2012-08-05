@@ -1,0 +1,42 @@
+
+
+# Becoming an Employer
+
+I've never been super happy with the companies I've worked for. The attitude has always been "what can you do for the company" rather than "how can the company help you grow". So, when I hired my first employee, I thought long and hard about what a company should be, and what it shouldn't. I thought about what expectations are reasonable, and what are not. And I talked it over with a group of smart people. Here are some general rules that are going to be in effect at Tall Green Tree Inc.
+
+
+### Respect
+
+This shouldn't need to be said, but sadly it does. Respect, respect, respect. The worst times in my work-life have been caused by managers who did not treat me or those around me with respect. I've seen disrespectful behavior towards my female colleagues, programming force-marches, failure to contribute on the part of managers, and many other ills which basically show a lack of respect for their employees. This will never be me.
+
+
+### The Boss is the Coffee Wallah
+
+The most menial jobs will always be mine, not my workers'. The person in power should deal with the worst inconveniences, the most annoying problems, and make all the runs for coffee. They should also answer the phone, gracefully deal with interruptions, and generally keep the world at bay for their employees.
+
+
+### No Overtime
+
+When was the decision made that all programmers are, or should be, workaholics?  
+We all have lives. It's unreasonable to expect employees to forego time 
+with their family and friends to spend more time flogging themselves against their 
+laptop. Plenty of studies have shown that we're most productive when we spend around 
+8 hours a day working, 5 days a week. For knowledge workers, the amount of 
+productive time is actually lower - around 6 hours of work a day, in my experience. 
+If projects are late, they are late, and it's a planning failure on the part of management. 
+Don't punish employees for that mistake, punish the management.
+
+
+### Employees set their own hours
+
+If it makes you happy to show up at 2PM and work until midnight, that's cool. As long as the work gets done, and you make a habit of working a consistent schedule, I don't see why it should matter. The exception to this one is people receiving training - those folks get to keep the trainer's schedule :).
+
+
+### Employees should choose their own hardware and software
+
+Seth likes his Macbook Pro. I like my Ubuntu desktop from System76. Neither of us 
+is wrong, but we're each happier because we get to use the tech we want. Why 
+force people to use a specific piece of tech? Programmers are happiest in 
+environments they choose, understand, and have total control over.
+
+
