@@ -1,0 +1,32 @@
+Date: December 2 2012
+Categories: business
+Summary: We startup folks talk about traction a lot. What idea has traction, which ideas don't. But what does traction actually look like? How do you tell if you have it? How do you know whether or not you might ever get it for your idea?
+
+# What Traction Looks Like
+
+We startup folks talk about traction a lot. What idea has traction, which ideas don't. But what is traction? What does traction actually look like? How do you tell if you have it? How do you predict whether or not you are ever going to get it?
+
+When I google traction, the first thing that pops up is a StackExchange post titled [What does traction really mean?](http://answers.onstartups.com/questions/2797/what-does-traction-really-mean). Some of the answers are based in metaphor - traction is when "your wheels stop spinning uselessly." Others talk about revenue, or idea validation, or phase of business ("out of the initial building stage"). Still others talk about market adoption or user action on the site. What this means is that traction is a shorthand for saying "we're making money now, or we're sure we will soon". Traction means you've proven that your idea will work in some way, and are on the way to making your profitable business a reality.
+
+### How do you predict traction?
+
+This is really simple - go talk to people. The lean process that many startups follow tells you to do two things - work on the product and talk to your users. By talking to your users you can get a feel for the problems they have, the issues they're encountering with your product, and most importantly whether or not they will buy it when it's done.
+
+The hardest part about this is the buy signal portion. You need to know not only whether or not they think the product is cool or interesting or if they might one day use the product, you are looking for them to tell you that yes, they will definately buy your product. An unequivocal yes to the question "will you buy this" is the only true predictor of success. 
+
+### A Personal Example
+
+Recently I've been working with a business partner on a new product, [DashScribe](http://www.dashscribe.com). Our initial concept was to provide a way to record, transcribe, and summarize meetings using smartphones. We got a lot of "gee, whiz, that's nifty", but not many strong buy signals. After talking with potential clients, we determined that there was a completely different need in a related space that we could fix using most of the foundation that we had already built. Once we shifted our focus to this need, gathering data for databases, we started getting much stronger buy signals, and spontaneous interest from people in our target market. We're lining up our initial trial users now, and the strength of the response predicts much better traction than our original concept. 
+
+### What to listen for
+
+There area few phrases you should keep your ear open for. They are strong indicators that you are on the right track.
+
+ * "That would be huge for us"
+ * "This is game-changing"
+ * "When can we sign up?"
+ * "Do you have space in your pilot for us?"
+ * "Can you show this to XXX?"
+ * "You should talk to XXX, he complains about this all the time"
+
+These may seem over-the-top, but when startups are really on to something, this is what they hear from their potential clients. Anything less means it's time to find a different approach.
