@@ -1,0 +1,21 @@
+Date: December 10 2012
+Categories: programming
+Summary: When interviewing for a technical role, bring another technologist with you. It takes one to know one.
+
+# Programming Interviews
+
+A while back, I interviewed someone on behalf of a startup I'm working with. They were looking to bring their development work in-house, like many startups, and wanted a developer to take control of the product and guide future development.
+
+This particular client's product is written on the Backbone/JSON/CoffeeScript/Rails API stack that has become more and more popular over the past few years. The advantages of the stack are manifold, but the technical competencies required to manage the application are much greater than in a more standard Rails application. Because of this, and because of the leadership role that the new developer would need to take, the initial interview for this role is more brutal than for a normal developer position.
+
+The candidate had many years of experience in IT, had taken courses in Rails, and on paper looked like a good match. They had interviewed the candidate themselves and thought the personality was a good fit. The interview with me was meant to be a simple proof of technical competence before getting to the next stage.
+
+The candidate failed.
+
+Programming interviews, when performed correctly, are designed to push the candidate to the edge of their knowledge and ability. This is necessary to asses their competencies. All of this in only a few minutes. Most programmers can sense when someone is or isn't at their level, based on their descriptions of basic programming concepts, and can act as a very effective screen for potential candidates. Programmers can also assess when someone is way above their level (what you want) and can tell you that you are in the presence of greatness, generally without seeing more than a little code.
+
+Much of the writing about the difficulty of determining programmer competency in the interview has been written by managers with little technical background. They may be excellent project managers, but as with everything, it takes a programmer to know a programmer. This is the same in any highly specialized field. I, for instance, would be unable to determine the level of someone attempting to work in finance, or in a chemical research lab. I simply don't have the experience to make the judgement. The best judge of a programmer's competency will be another programmer.
+
+So, when hiring a programmer, bring another one with you to the interview. It will teach you a huge amount about the candidate's level.
+
+Shameless Plug: Tall Green Tree Inc. vets candidates for programming roles in the Rails world. Let us know where we can help.
