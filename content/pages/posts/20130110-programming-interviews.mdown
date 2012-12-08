@@ -1,4 +1,4 @@
-Date: December 10 2012
+Date: January 10 2013
 Categories: programming
 Summary: When interviewing for a technical role, bring another technologist with you. It takes one to know one.
 
