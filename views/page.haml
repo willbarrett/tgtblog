@@ -6,6 +6,9 @@
   .spacer
   %article(role="main")
     ~ @page.to_html(self)
+    - if @page.articles.empty?
+      <h5><span style="position: relative; top: -5px;">If you've read this far, you should follow me on Twitter:</span> <a href="https://twitter.com/willbarrettdev" class="twitter-follow-button" data-show-count="false">Follow @willbarrettdev</a></h5><br />
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     %section.pages
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
@@ -18,6 +21,5 @@
     
     = haml :page_meta, :layout => false, :locals => { :page => @page }
 
-  = haml :comments, :layout => false
-
-
+  - if @page.articles.empty?
+    = haml :comments, :layout => false
