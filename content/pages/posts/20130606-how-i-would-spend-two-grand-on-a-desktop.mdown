@@ -1,0 +1,58 @@
+Date: June 6, 2013
+Categories: programming
+Summary: Shows my approach for buying a desktop computer on a budget. How much computer can you get for $2,000 in June 2013?
+
+# How I would spend $2,000 on a Desktop Computer
+
+This post was adapted from an email to a friend who started a new job and needed to figure out what to buy for her work computer. She was given a $2,000 budget to work under by her employer. Her system will be running Windows, but I based the hardware suggestions on my own Linux machine. The same general principles work for a computer on either OS. Of course, to get the same thing from Apple, you'd be spending $5,000+...
+
+Anyway:
+
+### General Approach - Buy the Computer with What's Left Over
+
+There are a few things that you need more than computer horsepower - the right peripherals, decent monitors, and equipment to back up your data. So let's price that first.
+
+### Peripherals:
+
+The cheap part of your setup. Don't compromise here. These are the bits that you actually touch. I recommend getting wired peripherals (not bluetooth) as they are less expensive, more durable, and you don't need to worry about batteries.
+
+**Keyboard: $75** - get a good one. It really helps. I suggest one with real keys, not the laptop-style keyboards. The real keys feel nicer to me, but that's personal preference. If you like the laptop feel, get one of the wired Apple keyboards. Personally, I like the Happy Hacker Light, which can be purchased for this price if you google around.
+
+**Mouse: $20** because the difference between the cheapest wired optical mouse and the most expensive is really minor, and in my case not noticeable. Microsoft mice are pretty good and are basically indestructible. Right now I'm using a Dynex. Don't over-spend here.
+
+**Headset: $65** for a decent Logitech USB headset with a boom mike. You'll want this for calling in to conferences, listening to music while you type, skyping with your friends, etc.
+
+**Webcam:** $45 for a decent one - I have the Logitech C310 and I like it well enough. It clips to the top of one of my monitors securely enough that I don't think about it once it's set up. Webcam quality is basically not important anymore. They're all at least 720P. Expect to use the boom mike on your headset rather than the built-in webcam mic.
+
+**Backup External Drive: $100** for a 1T external drive to back up your data. You definitely need this. In the event of hard drive failure, you don't want to lose everything.
+
+**Subotal for Peripherals: $305**
+
+### Display:
+Mostly, I look at text, websites and basic graphs, so my needs are simple. Don't go crazy with Apple Cinema displays if your needs are few. If you're a graphic designer, well, it might be time to increase your budget or go with a single monitor capable of precise calibration over the two lower-quality monitors I suggest.
+
+**Monitors: $400** for two. You can get decent 24-inch monitors for about $165 each these days. They won't look amazing, but they will do the job. LG makes reasonably priced, reasonably attractive monitors. I have an EB2442 display that I picked up for $165 from NewEgg that I like. You will need to play with the color, brightness, and contrast, so don't think you have a dud right when you plug it in. I left a little extra room here just in case there is a deal on better monitors going on that you can snag.
+
+**Monitor Arms: $50** - If you want to save some desk space, get monitor arms. That way you can put stuff under your monitors, and they won't jiggle too much when you type. They are all about the same. Read reviews on Amazon for the ones you are considering.
+
+**Cables: $40** You will probably need to purchase 2 cables for the monitors, or converters, or something. They usually don't come with the right thing. You might get lucky, but save $20 each just in case. And all cables are pretty much the same. Buy the cheap ones.
+
+**Subtotal for Monitors: $490**
+
+### The Tower: $1205 or less
+
+This leaves us with the tower. It's better to get a tower (traditional desktop format) than an all-in-one (iMac format) because when something goes wrong it's easier to fix, and it's easier to upgrade/add components later. I can't really tell you which one to get precisely, but you'll get something pretty sweet for $1200. For extra credit, buy a case and build your own.
+
+**Processor:** This is the one thing that's hard to upgrade later. Get something good. Intel Core I5 or (preferrably) I7. Try to get the latest version. I7 is a quad-core processor. Sweet.
+
+**Hard Drive:** With a desktop you can have more than one. I'd suggest a small SSD (120GB or so) to run the operating system and a 500GB drive or 1T 500RPM spinning disk drive to hold all the giant data files you're going to need. If you need to get a slower processor to afford the SSD, DO IT. SSDs fix the biggest bottleneck in computing up until now, which is the speed of seeking, reading from, and writing to addresses on spinning disks.
+
+**RAM:** Easy to upgrade later if you need it, so don't go crazy. More is better. Find the point where it starts getting more expensive per gigabyte and stop. Do make sure to get at least 8 GB though. For me, the cost fall-off was about 16GB. 32 for the machine I purchased last year would have been far too expensive.
+
+**Case:** Try to get something with more than 2 hard drive bays. It's easier to add a 3rd drive later than to swap out an existing one. Also, the more slots for RAM it has, the more you can get for less money. Other than that, it doesn't really matter. Try to get one that's easy to open. Also, lots of USB ports, and preferably at least one or two on the front where you can get to them easily. Make sure it has space for the right optical drives or card readers.
+
+If you get the stuff above, your machine will be screamingly fast for 2013.
+
+Why this budget doesn't include tax: You're going to buy everything tax-free from an online store. NewEgg or Amazon are good, as is TigerDirect. You should be able to avoid sales tax on all of this. Also, you should be able to find free shipping for most of it.
+
+So, that's how I'd spend $2,000 on a desktop computer.
